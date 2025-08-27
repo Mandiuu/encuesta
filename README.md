@@ -82,7 +82,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 **Carla Mandiola**
 
 - GitHub: [@carlamandiola](https://github.com/carlamandiola)
-- LinkedIn: [Carla Mandiola](https://linkedin.com/in/carlamandiola)
+- LinkedIn: [Carla Mandiola](https://linkedin.com/in/carla-mandiola/)
 
 ## 🙏 Agradecimientos
 
